@@ -7,4 +7,4 @@ lots of configs and settings available in the above link...
 My test file is taking all servers nord has in ireland and rotating them every 30 mins so I bypass the captchas.
 
 add test.py into working directory and enjoy a rotating vpn
-![ref](https://pasteboard.co/JN2aIzV.png)
+![referimg](https://pasteboard.co/JN2aIzV.png)
